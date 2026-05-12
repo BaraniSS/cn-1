@@ -1,6 +1,6 @@
 # Ex.No:1a  			Study of Socket Programming
 BARANI SS
-2122242300032
+212224230032
 
 reg no: 212224230032
 
